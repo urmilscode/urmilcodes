@@ -8,7 +8,7 @@
 - 💬 Ask me about  soccer ..  sure a topic to elaborate on
 - 📫 How to reach me: trust me I'm not a very hard lad to find .. 
 -  Pronouns: he/him  Any ladies hOLA!!
-- ⚡ Fun fact: Borussia Dortmund fan
+- ⚡ Fun fact: facts aint fun eh ..
 
 
 ![Urmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=urmilscode&show_icons=true&theme=radical)
