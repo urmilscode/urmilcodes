@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**urmilscode/urmilscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  pushing two apps to the store
 - 🌱 I’m currently learning  a lot of things apparently  Go Lang , web framework Django, kotlin for mobile,, brushing up some swift ,, m a busy lad eh ??? 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: trust me I'm not a very hard lad to find .. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Borussia Dortmund fan
--->
+
