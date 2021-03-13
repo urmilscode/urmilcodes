@@ -1,4 +1,4 @@
-### Hi there 👋
+Yo!
 
 
 - 🔭 I’m currently working on  pushing two apps to the store
